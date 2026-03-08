@@ -12,6 +12,8 @@ The analyzer also identifies useful statistics such as:
 - Most active hosts
 - Most requested files
 - Most common HTTP status codes
+- Top 3 file types requested
+- Error rate of the server
 
 These metrics help provide insights into traffic patterns and server activity within the NASA web server logs.
 

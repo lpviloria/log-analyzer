@@ -22,6 +22,8 @@ These metrics help provide insights into traffic patterns and server activity wi
 ## Requirements
 
 - Python 3
+- NASA log files downloaded from the NASA website itself (https://ita.ee.lbl.gov/html/contrib/NASA-HTTP.html)
+(note: you might have to use curl or wget as the download mechanism of the NASA website is not very user-friendly and outdated)
 
 ---
 

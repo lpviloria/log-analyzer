@@ -1,3 +1,7 @@
+## License
+
+This project is licensed under the MIT License - see the LICENSE file for details.
+
 # NASA 1995 HTTP Log Analyzer
 
 This is a log analyzer tool designed to process the NASA HTTP Logs from 1995.  

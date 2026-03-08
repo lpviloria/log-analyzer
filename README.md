@@ -37,3 +37,11 @@ Run the script from the terminal using the following command:
 
 ```bash
 python3 log.py <path_to_log_file>
+
+```
+
+## Author
+
+**Luis Angelo Viloria**
+University of the Philippines
+Email: lpviloria@up.edu.ph
